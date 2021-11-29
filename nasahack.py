@@ -1,4 +1,3 @@
-#my banner artwork **Shakil Hasan**
 banner = render("nasa", colors=['green', 'blue'], align='center')
 print(banner)
 print(emoji.emojize(":Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner::Japanese_symbol_for_beginner:"))
