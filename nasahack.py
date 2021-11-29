@@ -1,11 +1,3 @@
-import time
-from cfonts import render
-import sys
-import emoji
-import os 
-import itertools
-import threading
-
 #my banner artwork **Shakil Hasan**
 banner = render("nasa", colors=['green', 'blue'], align='center')
 print(banner)
